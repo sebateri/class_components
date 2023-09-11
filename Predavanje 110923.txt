@@ -1,0 +1,135 @@
+Sebastian@ZRIN-1300X MINGW64 /d/Desktop/Front-End Developer/REACT_2023
+$ npm create vite@latest
+? Project name: » vite-projectvjezba-110923
+√ Project name: ... vjezba-110923
+? Select a framework: » - Use arrow-keys. Return to submit.
+>   Vanilla
+    Vue
+    React
+    Preact
+    Lit
+    Svelte
+    Solid
+    Qwik
+    Others
+
+
+
+? Select a framework: » - Use arrow-keys. Return to submit.
+    Vanilla
+>   Vue
+    React
+    Preact
+    Lit
+    Svelte
+    Solid
+    Qwik
+    Others
+? Select a framework: » - Use arrow-keys. Return to submit.
+    Vanilla
+    Vue
+>   React
+    Preact
+    Lit
+    Svelte
+    Solid
+    Qwik
+    Others
+√ Select a framework: » React
+? Select a variant: » - Use arrow-keys. Return to submit.
+>   TypeScript
+    TypeScript + SWC
+    JavaScript
+    JavaScript + SWC
+
+? Select a variant: » - Use arrow-keys. Return to submit.
+    TypeScript
+>   TypeScript + SWC
+    JavaScript
+    JavaScript + SWC
+? Select a variant: » - Use arrow-keys. Return to submit.
+    TypeScript
+    TypeScript + SWC
+>   JavaScript
+    JavaScript + SWC
+√ Select a variant: » JavaScript
+
+Scaffolding project in D:\Desktop\Front-End Developer\REACT_2023\vjezba-110923...
+
+Done. Now run:
+
+  cd vjezba-110923
+  npm install
+  npm run dev
+
+cd^Cnpm ERR! code 3221225786
+npm ERR! path D:\Desktop\Front-End Developer\REACT_2023
+npm ERR! command failed
+npm ERR! command C:\WINDOWS\system32\cmd.exe /d /s /c create-vite
+
+npm ERR! A complete log of this run can be found in: C:\Users\Sebastian\AppData\Local\npm-cache\_logs\2023-09-11T16_07_55_986Z-debug-0.log
+
+
+Sebastian@ZRIN-1300X MINGW64 /d/Desktop/Front-End Developer/REACT_2023
+$ cd vjezba-110923
+
+Sebastian@ZRIN-1300X MINGW64 /d/Desktop/Front-End Developer/REACT_2023/vjezba-110923
+$ npm install
+
+added 260 packages, and audited 261 packages in 16s
+
+96 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+Sebastian@ZRIN-1300X MINGW64 /d/Desktop/Front-End Developer/REACT_2023/vjezba-110923
+$ npm run dev
+
+> vjezba-110923@0.0.0 dev
+> vite
+
+
+  VITE v4.4.9  ready in 1140 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  
+Sebastian@ZRIN-1300X MINGW64 /d/Desktop/Front-End Developer/REACT_2023
+$ cd vjezba-110923
+
+Sebastian@ZRIN-1300X MINGW64 /d/Desktop/Front-End Developer/REACT_2023/vjezba-110923
+$ git init
+Initialized empty Git repository in D:/Desktop/Front-End Developer/REACT_2023/vjezba-110923/.git/
+
+Sebastian@ZRIN-1300X MINGW64 /d/Desktop/Front-End Developer/REACT_2023/vjezba-110923 (main)
+$ git remote -v
+
+Sebastian@ZRIN-1300X MINGW64 /d/Desktop/Front-End Developer/REACT_2023/vjezba-110923 (main)
+$ git add origin git@github.com:sebateri/class_components.git
+fatal: pathspec 'origin' did not match any files
+
+Sebastian@ZRIN-1300X MINGW64 /d/Desktop/Front-End Developer/REACT_2023/vjezba-110923 (main)
+$ git remote add origin git@github.com:sebateri/class_components.git
+
+Sebastian@ZRIN-1300X MINGW64 /d/Desktop/Front-End Developer/REACT_2023/vjezba-110923 (main)
+$ git add .
+warning: in the working copy of '.eslintrc.cjs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/App.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/App.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/index.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/main.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'vite.config.js', LF will be replaced by CRLF the next time Git touches it
+
+Sebastian@ZRIN-1300X MINGW64 /d/Desktop/Front-End Developer/REACT_2023/vjezba-110923 (main)
+$ git branch -M main
+
+Sebastian@ZRIN-1300X MINGW64 /d/Desktop/Front-End Developer/REACT_2023/vjezba-110923 (main)
+$ git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'github.com:sebateri/class_components.git'  
